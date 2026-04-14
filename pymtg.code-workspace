@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.useEnvironmentsExtension": false,
+		"python.terminal.activateEnvironment": true
+	}
+}
